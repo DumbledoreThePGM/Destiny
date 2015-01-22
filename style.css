@@ -1,0 +1,62 @@
+body
+{
+background-color: black;
+color: white;
+font-family: arial, Georgia;
+background: url("http://4anneaux.fr/wp-content/uploads/2013/02/Folds_1024X640.jpg");
+background-repeat: repeat;
+margin:0px;
+}
+h1 { font-family : Georgia;
+     color: #FF9900
+;}
+img {width:360px;}
+h1,h2,h3{text-shadow: 2px 2px 4px black;}
+#classes a{
+color: white;
+padding: 12px 10px;
+border: 1px #151E28 solid;
+background-color: #151E28;
+display:block;
+}
+#classes li{
+display: inline-block;
+}
+#classes a:hover{
+color: #FF9900
+;
+}
+#menu a{
+color: white;
+padding: 12px 40px;
+border: 1px black solid;
+background-color: black;
+margin:0px;
+display:block;
+}
+#menu a:hover{
+color: black;
+padding: 12px 40px;
+border: 1px #FF9900
+ solid;
+background-color: #FF9900
+;
+}
+#menu li {
+display: inline-block;
+}
+ul {
+list-style-type: none;
+margin: 0px;
+padding: 0px;
+} 
+#menu { background-color:black; }
+#classes{background-color: #151E28;}
+/* .image:hover{width:450px;} */
+.image-click {width:600px;} 
+.fond {
+width:100%;
+margin:0px;
+padding:0px;
+border: 1px black solid;
+}
